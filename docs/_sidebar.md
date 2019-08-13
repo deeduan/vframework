@@ -19,6 +19,7 @@
   * [数据库DB](zh-cn/custom-navbar.md)
   * [视图View](zh-cn/custom-navbar.md)
   * [模板HTML](zh-cn/custom-navbar.md)
+  * [缓存Cache](zh-cn/cache.md)
   * [验证器Validator](zh-cn/custom-navbar.md)
   * [命令行Command](zh-cn/cover.md)
   * [加密器Cryptor](zh-cn/cover.md)
