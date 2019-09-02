@@ -2,7 +2,7 @@
   * [框架简介](/)
   * [交流学习](zh-cn/study.md)
 * 快速入门
-  * [MVC模式](zh-cn/m-v-c.md)
+  * [创建应用](zh-cn/m-v-c.md)
 * 核心架构
   * [请求周期](zh-cn/more-pages.md)
   * [配置](zh-cn/cover.md)
